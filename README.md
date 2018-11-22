@@ -1,7 +1,7 @@
 RailsAdminSoftwareBrothersTheme
 ===================================================
 
-It is a clean theme which can be used with Rails Admin.
+It is a clean theme which can be used with [Rails Admin](https://github.com/sferik/rails_admin).
 
 <img src="./docs/screenshot.png" width=100%>
 
