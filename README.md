@@ -1,4 +1,4 @@
-RailsAdminRstTheme
+RailsAdminSoftwareBrothersTheme
 ===================================================
 
 This project rocks and uses MIT-LICENSE.
@@ -9,18 +9,18 @@ Use a theme
 In your Gemfile:
 
 ```
-gem 'rails_admin_rst_theme', :git => 'git@github.com:rstgroup/rails_admin_rst_theme.git'
+gem 'rails_admin_softwarebrothers_theme', :git => 'git@github.com:softwarebrothers/rails_admin_softwarebrothers_theme.git'
 ```
 
 Inside config/application.rb, just after Bundler.require:
 
 ```
-ENV['RAILS_ADMIN_THEME'] = 'rst_theme'
+ENV['RAILS_ADMIN_THEME'] = 'softwarebrothers_theme'
 ```
 
 ## License
 
-rails-admin-rst-theme is Copyright © 2018 SoftwareBrothers.co. It is free software, and may be redistributed under the terms specified in the [LICENSE](LICENSE.md) file.
+rails-admin-softwarebrothers-theme is Copyright © 2018 SoftwareBrothers.co. It is free software, and may be redistributed under the terms specified in the [LICENSE](LICENSE.md) file.
 
 ## About SoftwareBrothers.co
 
