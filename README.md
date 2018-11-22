@@ -1,7 +1,9 @@
 RailsAdminSoftwareBrothersTheme
 ===================================================
 
-This project rocks and uses MIT-LICENSE.
+It is a clean theme which can be used with Rails Admin.
+
+<img src="./docs/screenshot.png" width=100%>
 
 Use a theme
 ---------------------------------------------------
